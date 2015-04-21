@@ -1,0 +1,25 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+relative_permalinks: true
+
+# Setup
+title:               N-Languages in N-Months NYC
+tagline:             Where Happiness is a New Programming Language
+url:                 http://nlangnyc.github.io
+paginate:            1
+baseurl:             ""
+
+# Assets
+#
+# We specify the directory for Jekyll so we can use @imports.
+sass:
+  sass_dir:          _sass
+  style:            :compressed
+
+# About/contact
+author:
+  name:              Andrew Leung
+  url:               https://twitter.com/nlangnyc
+  email:             nlangnyc@gmail.com

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>N-Languages in N-Months NYC</title>
+ <link href="http://nlangnyc.github.io//atom.xml" rel="self"/>
+ <link href="http://nlangnyc.github.io/"/>
+ <updated>2015-04-20T23:00:54-04:00</updated>
+ <id>http://nlangnyc.github.io</id>
+ <author>
+   <name>Andrew Leung</name>
+   <email>nlangnyc@gmail.com</email>
+ </author>
+
+ 
+ <entry>
+   <title>first post!</title>
+   <link href="http://nlangnyc.github.io///2015/04/21/first-post/"/>
+   <updated>2015-04-21T00:00:00-04:00</updated>
+   <id>http://nlangnyc.github.io/2015/04/21/first-post</id>
+   <content type="html">&lt;p&gt;this is a test of first post.&lt;/p&gt;
+</content>
+ </entry>
+ 
+
+</feed>
