@@ -4,13 +4,31 @@
  <title>N-Languages in N-Months NYC</title>
  <link href="http://nlangnyc.github.io//atom.xml" rel="self"/>
  <link href="http://nlangnyc.github.io/"/>
- <updated>2015-04-20T23:03:52-04:00</updated>
+ <updated>2015-05-20T10:09:13-04:00</updated>
  <id>http://nlangnyc.github.io</id>
  <author>
    <name>Andrew Leung</name>
    <email>nlangnyc@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Breakfast Coding Club</title>
+   <link href="http://nlangnyc.github.io///2015/05/20/breakfast-coding-club/"/>
+   <updated>2015-05-20T00:00:00-04:00</updated>
+   <id>http://nlangnyc.github.io/2015/05/20/breakfast-coding-club</id>
+   <content type="html">&lt;p&gt;Evie started up a breakfast coding club in the Haskell for Cats meetup group and extended it to the N-languages meetup group.&lt;/p&gt;
+
+&lt;p&gt;I’ve joined in a few breakfast coding club and it has been very good. Just getting an hour or two before work has really improved my productivity and increased my focus.&lt;/p&gt;
+
+&lt;p&gt;Today, I spent my time working on getting this site up and making this post. Evie spent time trying to dig herself out of Cabal hell (and maybe taking poor Mark with her.) Kat was totally in the zone on something for work.&lt;/p&gt;
+
+&lt;blockquote class=&quot;instagram-media&quot; data-instgrm-captioned=&quot;&quot; data-instgrm-version=&quot;4&quot; style=&quot; background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);&quot;&gt;&lt;div style=&quot;padding:8px;&quot;&gt; &lt;div style=&quot; background:#F8F8F8; line-height:0; margin-top:40px; padding:50% 0; text-align:center; width:100%;&quot;&gt; &lt;div style=&quot; background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAAGFBMVEUiIiI9PT0eHh4gIB4hIBkcHBwcHBwcHBydr+JQAAAACHRSTlMABA4YHyQsM5jtaMwAAADfSURBVDjL7ZVBEgMhCAQBAf//42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;&quot;&gt;&lt;/div&gt;&lt;/div&gt; &lt;p style=&quot; margin:8px 0 0 0; padding:0 4px;&quot;&gt; &lt;a href=&quot;https://instagram.com/p/26A_hfuBWz/&quot; style=&quot; color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;&quot; target=&quot;_top&quot;&gt;#breakfastcodingclub #nlang&lt;/a&gt;&lt;/p&gt; &lt;p style=&quot; color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;&quot;&gt;A photo posted by @andrewleung77 on &lt;time style=&quot; font-family:Arial,sans-serif; font-size:14px; line-height:17px;&quot; datetime=&quot;2015-05-20T14:06:56+00:00&quot;&gt;May 20, 2015 at 7:06am PDT&lt;/time&gt;&lt;/p&gt;&lt;/div&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; defer=&quot;&quot; src=&quot;//platform.instagram.com/en_US/embeds.js&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;If you have a little extra time and feel adventurous to change up your routine, come on out and join us. We usually stay until 10am and you can talk, code, or ask for help on programming.&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>first post!</title>
