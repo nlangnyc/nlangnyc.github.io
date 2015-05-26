@@ -4,7 +4,7 @@
  <title>N-Languages in N-Months NYC</title>
  <link href="http://nlangnyc.github.io//atom.xml" rel="self"/>
  <link href="http://nlangnyc.github.io/"/>
- <updated>2015-05-22T09:29:59-04:00</updated>
+ <updated>2015-05-26T09:25:48-04:00</updated>
  <id>http://nlangnyc.github.io</id>
  <author>
    <name>Andrew Leung</name>
@@ -13,11 +13,25 @@
 
  
  <entry>
+   <title>Breakfast coding club Tuesday</title>
+   <link href="http://nlangnyc.github.io///2015/05/26/breakfast-coding-club/"/>
+   <updated>2015-05-26T00:00:00-04:00</updated>
+   <id>http://nlangnyc.github.io/2015/05/26/breakfast-coding-club</id>
+   <content type="html">&lt;p&gt;Another week, another breakfast coding club! Today, Kat left early to open the door to one of the most powerful people in her company. Evie was getting her business coding on. Mark, stuck in cabal hell with Postgres. I’m still trying to get unittest going in python… I’m a bit surprised how hard it is to get unittest going in python…&lt;/p&gt;
+
+&lt;blockquote class=&quot;instagram-media&quot; data-instgrm-captioned=&quot;&quot; data-instgrm-version=&quot;4&quot; style=&quot; background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);&quot;&gt;&lt;div style=&quot;padding:8px;&quot;&gt; &lt;div style=&quot; background:#F8F8F8; line-height:0; margin-top:40px; padding:50% 0; text-align:center; width:100%;&quot;&gt; &lt;div style=&quot; background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAAGFBMVEUiIiI9PT0eHh4gIB4hIBkcHBwcHBwcHBydr+JQAAAACHRSTlMABA4YHyQsM5jtaMwAAADfSURBVDjL7ZVBEgMhCAQBAf//42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;&quot;&gt;&lt;/div&gt;&lt;/div&gt; &lt;p style=&quot; margin:8px 0 0 0; padding:0 4px;&quot;&gt; &lt;a href=&quot;https://instagram.com/p/3JWzuLuBQG/&quot; style=&quot; color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;&quot; target=&quot;_top&quot;&gt;#breakfastcodingclub #nlang&lt;/a&gt;&lt;/p&gt; &lt;p style=&quot; color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;&quot;&gt;A photo posted by @andrewleung77 on &lt;time style=&quot; font-family:Arial,sans-serif; font-size:14px; line-height:17px;&quot; datetime=&quot;2015-05-26T13:06:10+00:00&quot;&gt;May 26, 2015 at 6:06am PDT&lt;/time&gt;&lt;/p&gt;&lt;/div&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; defer=&quot;&quot; src=&quot;//platform.instagram.com/en_US/embeds.js&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;Have a great week and see you next time!&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
    <title>Breakfast Coding Club (TGIF!)</title>
    <link href="http://nlangnyc.github.io///2015/05/22/breakfast-coding-club/"/>
    <updated>2015-05-22T00:00:00-04:00</updated>
    <id>http://nlangnyc.github.io/2015/05/22/breakfast-coding-club</id>
-   <content type="html">&lt;p&gt;It’s Friday, and there’s a Breakfast Coding Club. We’re doing Caffe Bene again. Mark did a great job of holding the fort down (just kidding, there’s not many up that early here.) Brian dropped by for breakfast. Diana is getting some relaxing coding done before her PhD defense (good luck!) Evie graced us with her presence. Kat came straight from the club to the breakfastcodingclub. I will get some python&lt;/p&gt;
+   <content type="html">&lt;p&gt;It’s Friday, and there’s a Breakfast Coding Club. We’re doing Caffe Bene again. Mark did a great job of holding the fort down (just kidding, there’s not many up that early here.) Brian dropped by for breakfast. Diana is getting some relaxing coding done before her PhD defense (good luck!) Evie graced us with her presence. Kat came straight from the club to the breakfastcodingclub. I will get some python tests going.&lt;/p&gt;
 
 &lt;blockquote class=&quot;instagram-media&quot; data-instgrm-captioned=&quot;&quot; data-instgrm-version=&quot;4&quot; style=&quot; background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);&quot;&gt;&lt;div style=&quot;padding:8px;&quot;&gt; &lt;div style=&quot; background:#F8F8F8; line-height:0; margin-top:40px; padding:50% 0; text-align:center; width:100%;&quot;&gt; &lt;div style=&quot; background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAAGFBMVEUiIiI9PT0eHh4gIB4hIBkcHBwcHBwcHBydr+JQAAAACHRSTlMABA4YHyQsM5jtaMwAAADfSURBVDjL7ZVBEgMhCAQBAf//42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;&quot;&gt;&lt;/div&gt;&lt;/div&gt; &lt;p style=&quot; margin:8px 0 0 0; padding:0 4px;&quot;&gt; &lt;a href=&quot;https://instagram.com/p/2_EofCOBd7/&quot; style=&quot; color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;&quot; target=&quot;_top&quot;&gt;#tgif #breakfastcodingclub&lt;/a&gt;&lt;/p&gt; &lt;p style=&quot; color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;&quot;&gt;A photo posted by @andrewleung77 on &lt;time style=&quot; font-family:Arial,sans-serif; font-size:14px; line-height:17px;&quot; datetime=&quot;2015-05-22T13:14:56+00:00&quot;&gt;May 22, 2015 at 6:14am PDT&lt;/time&gt;&lt;/p&gt;&lt;/div&gt;&lt;/blockquote&gt;
 &lt;script async=&quot;&quot; defer=&quot;&quot; src=&quot;//platform.instagram.com/en_US/embeds.js&quot;&gt;&lt;/script&gt;
