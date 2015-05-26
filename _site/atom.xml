@@ -4,13 +4,39 @@
  <title>N-Languages in N-Months NYC</title>
  <link href="http://nlangnyc.github.io//atom.xml" rel="self"/>
  <link href="http://nlangnyc.github.io/"/>
- <updated>2015-05-26T09:25:48-04:00</updated>
+ <updated>2015-05-26T12:35:08-04:00</updated>
  <id>http://nlangnyc.github.io</id>
  <author>
    <name>Andrew Leung</name>
    <email>nlangnyc@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Breakfast Coding Club</title>
+   <link href="http://nlangnyc.github.io///2015/06/02/breakfast-coding-club/"/>
+   <updated>2015-06-02T00:00:00-04:00</updated>
+   <id>http://nlangnyc.github.io/2015/06/02/breakfast-coding-club</id>
+   <content type="html">&lt;p&gt;Andrew was the first one to breakfast coding club, even in the rain! Congratulations! Mark was out in Boston. Andrew shared with Evie the (rocky) Android landscape. Evie looked into procuring the smallest (and oldest) Android device possible. It’s another great month for coding in the morning!&lt;/p&gt;
+
+&lt;blockquote class=&quot;instagram-media&quot; data-instgrm-captioned=&quot;&quot; data-instgrm-version=&quot;4&quot; style=&quot; background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);&quot;&gt;&lt;div style=&quot;padding:8px;&quot;&gt; &lt;div style=&quot; background:#F8F8F8; line-height:0; margin-top:40px; padding:50% 0; text-align:center; width:100%;&quot;&gt; &lt;div style=&quot; background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAAGFBMVEUiIiI9PT0eHh4gIB4hIBkcHBwcHBwcHBydr+JQAAAACHRSTlMABA4YHyQsM5jtaMwAAADfSURBVDjL7ZVBEgMhCAQBAf//42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;&quot;&gt;&lt;/div&gt;&lt;/div&gt; &lt;p style=&quot; margin:8px 0 0 0; padding:0 4px;&quot;&gt; &lt;a href=&quot;https://instagram.com/p/3bXeGvuBVn/&quot; style=&quot; color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;&quot; target=&quot;_top&quot;&gt;#breakfastcodingclub #almondcroissant #haskellforcats #nlang&lt;/a&gt;&lt;/p&gt; &lt;p style=&quot; color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;&quot;&gt;A photo posted by @andrewleung77 on &lt;time style=&quot; font-family:Arial,sans-serif; font-size:14px; line-height:17px;&quot; datetime=&quot;2015-06-02T12:58:17+00:00&quot;&gt;Jun 2, 2015 at 5:58am PDT&lt;/time&gt;&lt;/p&gt;&lt;/div&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; defer=&quot;&quot; src=&quot;//platform.instagram.com/en_US/embeds.js&quot;&gt;&lt;/script&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Breakfast Coding Club</title>
+   <link href="http://nlangnyc.github.io///2015/05/28/breakfast-coding-club/"/>
+   <updated>2015-05-28T00:00:00-04:00</updated>
+   <id>http://nlangnyc.github.io/2015/05/28/breakfast-coding-club</id>
+   <content type="html">&lt;p&gt;Another week, another breakfast coding club. We’re starting a regular schedule of Tuesdays, Thursdays, and Saturdays. Today, Mark finally got out of cabal hell and got rid of all his warnings from his code. Hoa joined us for the first time and started learning about Test driven development. Evie talked about the virtues of haskell over xamarin.&lt;/p&gt;
+
+&lt;blockquote class=&quot;instagram-media&quot; data-instgrm-captioned=&quot;&quot; data-instgrm-version=&quot;4&quot; style=&quot; background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);&quot;&gt;&lt;div style=&quot;padding:8px;&quot;&gt; &lt;div style=&quot; background:#F8F8F8; line-height:0; margin-top:40px; padding:50% 0; text-align:center; width:100%;&quot;&gt; &lt;div style=&quot; background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAAGFBMVEUiIiI9PT0eHh4gIB4hIBkcHBwcHBwcHBydr+JQAAAACHRSTlMABA4YHyQsM5jtaMwAAADfSURBVDjL7ZVBEgMhCAQBAf//42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;&quot;&gt;&lt;/div&gt;&lt;/div&gt; &lt;p style=&quot; margin:8px 0 0 0; padding:0 4px;&quot;&gt; &lt;a href=&quot;https://instagram.com/p/3OjteEuBTG/&quot; style=&quot; color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;&quot; target=&quot;_top&quot;&gt;#breakfastcodingclub #nlang #haskellforcats&lt;/a&gt;&lt;/p&gt; &lt;p style=&quot; color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;&quot;&gt;A photo posted by @andrewleung77 on &lt;time style=&quot; font-family:Arial,sans-serif; font-size:14px; line-height:17px;&quot; datetime=&quot;2015-05-28T13:35:06+00:00&quot;&gt;May 28, 2015 at 6:35am PDT&lt;/time&gt;&lt;/p&gt;&lt;/div&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; defer=&quot;&quot; src=&quot;//platform.instagram.com/en_US/embeds.js&quot;&gt;&lt;/script&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>Breakfast coding club Tuesday</title>
