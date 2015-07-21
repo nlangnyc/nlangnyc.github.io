@@ -4,13 +4,40 @@
  <title>N-Languages in N-Months NYC</title>
  <link href="http://nlangnyc.github.io//atom.xml" rel="self"/>
  <link href="http://nlangnyc.github.io/"/>
- <updated>2015-07-07T14:01:05-04:00</updated>
+ <updated>2015-07-21T12:13:02-04:00</updated>
  <id>http://nlangnyc.github.io</id>
  <author>
    <name>Andrew Leung</name>
    <email>nlangnyc@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Code Gym - July 21, 2015</title>
+   <link href="http://nlangnyc.github.io///2015/07/21/code-gym/"/>
+   <updated>2015-07-21T00:00:00-04:00</updated>
+   <id>http://nlangnyc.github.io/2015/07/21/code-gym</id>
+   <content type="html">&lt;p&gt;Big morning for Code Gym! I was the first one there but wasn’t alone for long!&lt;/p&gt;
+
+&lt;blockquote class=&quot;instagram-media&quot; data-instgrm-captioned=&quot;&quot; data-instgrm-version=&quot;4&quot; style=&quot; background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);&quot;&gt;&lt;div style=&quot;padding:8px;&quot;&gt; &lt;div style=&quot; background:#F8F8F8; line-height:0; margin-top:40px; padding:50% 0; text-align:center; width:100%;&quot;&gt; &lt;div style=&quot; background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAAGFBMVEUiIiI9PT0eHh4gIB4hIBkcHBwcHBwcHBydr+JQAAAACHRSTlMABA4YHyQsM5jtaMwAAADfSURBVDjL7ZVBEgMhCAQBAf//42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;&quot;&gt;&lt;/div&gt;&lt;/div&gt; &lt;p style=&quot; margin:8px 0 0 0; padding:0 4px;&quot;&gt; &lt;a href=&quot;https://instagram.com/p/5ZjIU-OBTF/&quot; style=&quot; color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;&quot; target=&quot;_top&quot;&gt;The #earlybird gets the best seat. #nlang #NYC #codegym #morning&lt;/a&gt;&lt;/p&gt; &lt;p style=&quot; color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;&quot;&gt;A photo posted by @andrewleung77 on &lt;time style=&quot; font-family:Arial,sans-serif; font-size:14px; line-height:17px;&quot; datetime=&quot;2015-07-21T13:04:28+00:00&quot;&gt;Jul 21, 2015 at 6:04am PDT&lt;/time&gt;&lt;/p&gt;&lt;/div&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; defer=&quot;&quot; src=&quot;//platform.instagram.com/en_US/embeds.js&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;We had quite the turn out. Two first timers and four regulars. Lots of different coding at every level was going on:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Justin - first timer. Came for help in getting started with Python development for translating his machine learning course. He’s also into Clojure and Hadoop, very ambitious!&lt;/li&gt;
+  &lt;li&gt;Christina - another first timer. Came for help in HTML and CSS. She asked why laying out a page is so hard. I shared that even I have a hard time with css so it is not her. She’s building a site for her friend. Also very ambitious.&lt;/li&gt;
+  &lt;li&gt;Gabriele - grinding away at his Scala side project of processing Italian train schedules. It’s very impressive the number of different rules are involved in basic train scheduling.&lt;/li&gt;
+  &lt;li&gt;Evie - getting to love C# more and more. Pairing with someone makes a big difference!&lt;/li&gt;
+  &lt;li&gt;Paul - catching up with his online algorithms course. Good job!&lt;/li&gt;
+  &lt;li&gt;Rachael - getting over her weekend cold and getting back into the things with Java. Nice. (and finishing Justin’s install of linux in virtualbox.)&lt;/li&gt;
+  &lt;li&gt;Me - Helping Justin get setup with python, linux, and virtualbox.&lt;/li&gt;
+  &lt;li&gt;Kat - she was up but had a more important place to be. :-)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Looking forward to Thursday’s code gym, see everyone there!&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Code Gym</title>
