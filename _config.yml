@@ -23,3 +23,5 @@ author:
   name:              Andrew Leung
   url:               https://twitter.com/nlangnyc
   email:             nlangnyc@gmail.com
+
+gems: [jekyll-paginate, jekyll-avatar]
