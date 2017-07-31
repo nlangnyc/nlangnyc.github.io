@@ -10,9 +10,12 @@ title: Blog Ring Members
        <div>
        <h4>{{ member.name }}</h4>
        <br />
-       {% octicon mark-github %} <a href="http://github.com/{{ member.github }}">{{ member.github }}</a>
+       <span class="entypo-github"></span>
+       <a href="http://github.com/{{ member.github }}">
+       {{ member.github }}</a>
        <br />
-       {% octicon rss %} &nbsp;<a href="{{ member.blog }}">{{ member.blog }}</a>
+       <span class="entypo-rss"></span>
+       &nbsp;<a href="{{ member.blog }}">{{ member.blog }}</a>
        </div>
     </li>
 
